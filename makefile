@@ -1,10 +1,5 @@
-all: file1.txt file2.txt
-
-file1.txt:
-	echo 'This is file1' > file1.txt
-
-file2.txt:
-	echo 'This is file2' > file2.txt
-
-clean:
-	rm file1.txt file2.txt
+readme.txt: guessinggame.sh
+	echo 'The Title of this project is Guessing Game' > readme.txt
+	date
+	echo 'The number of lines in this code are:' >> readme.txt
+	wc -l guessinggame.sh | egrep -o "[0-9]+" >> readme.txt
