@@ -1,0 +1,41 @@
+commit b12cdf87b05095ce3726acf5339144cfa34ceb94
+Author: SilentSoldier <ravitejarock1@gmail.com>
+Date:   Mon Sep 18 08:24:47 2017 -0400
+
+    test1.txt is modified
+
+commit 4d76f7c5c2dc4b10601f44798ca6894a51dd7e59
+Author: SilentSoldier <ravitejarock1@gmail.com>
+Date:   Mon Sep 18 08:20:49 2017 -0400
+
+    gitignore added
+
+commit 608262dc4291c3969cc3f98d90101f131bc6cfed
+Author: SilentSoldier <ravitejarock1@gmail.com>
+Date:   Mon Sep 18 08:13:03 2017 -0400
+
+    new line added to exer1.sh
+
+commit 3d6be121f7b23c83236cbb5eee26fe9ff351bcf1
+Author: SilentSoldier <ravitejarock1@gmail.com>
+Date:   Mon Sep 18 08:06:29 2017 -0400
+
+    Two files named test1 and test2 are added
+
+commit 4deb5d60c86128f670741a687f61657b5361ac4d
+Author: SilentSoldier <ravitejarock1@gmail.com>
+Date:   Mon Sep 18 07:57:17 2017 -0400
+
+    New line entered in exercise_1.sh
+
+commit 865a132e7a3c2c11078438d5e2ad6713a8e7e4c4
+Author: SilentSoldier <ravitejarock1@gmail.com>
+Date:   Mon Sep 18 07:53:25 2017 -0400
+
+    one line added to exer.sh
+
+commit 71bd7cad106c5369883480ce364bc358aae2b6de
+Author: SilentSoldier <ravitejarock1@gmail.com>
+Date:   Mon Sep 18 07:52:23 2017 -0400
+
+    added a line to exer1.sh
