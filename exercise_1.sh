@@ -6,3 +6,4 @@ echo $num_two
 sum=$(expr $1 - $2)
 echo $sum
 expr num_one+num_two 
+echo "Test for git changes"
